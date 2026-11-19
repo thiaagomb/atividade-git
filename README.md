@@ -1,2 +1,2 @@
-# atividade-git
+# app-agenda-thiago
 Atividade - Técnicas de Programação.
